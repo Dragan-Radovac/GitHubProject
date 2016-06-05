@@ -8,5 +8,11 @@ namespace GitHubProject
 {
     public class Class1
     {
+        public void TestMethod()
+        {
+            Console.WriteLine("Test Method");
+            Console.WriteLine("Test Method 2");
+            Console.WriteLine("Test Method 3");
+        }
     }
 }
