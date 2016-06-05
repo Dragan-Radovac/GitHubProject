@@ -13,6 +13,7 @@ namespace GitHubProject
             Console.WriteLine("Test Method");
             Console.WriteLine("Test Method 2");
             Console.WriteLine("Test Method 3");
+            Console.WriteLine("Test Method 4");
         }
     }
 }
